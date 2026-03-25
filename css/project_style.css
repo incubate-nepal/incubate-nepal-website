@@ -89,4 +89,58 @@
     border-radius: 6px
 }
 
+.timeline .timeline-body .share-work-section {
+    margin-top: 1.1rem;
+    padding-top: 1rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.14);
+}
+
+.timeline .timeline-body .share-work-title {
+    margin: 0 0 0.6rem 0;
+    color: rgba(255, 255, 255, 0.92);
+    font-family: "Varela Round";
+    font-size: 1rem;
+    text-transform: none;
+}
+
+.timeline .timeline-body .share-work-row {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    flex-wrap: wrap;
+}
+
+.timeline .timeline-body .share-work-link {
+    flex: 1;
+    min-width: 220px;
+    margin: 0;
+    padding: 0.65rem 0.75rem;
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    background: rgba(255, 255, 255, 0.06);
+    color: rgba(255, 255, 255, 0.86);
+    font-family: "Poppins";
+    font-size: 0.95rem;
+    box-sizing: border-box;
+}
+
+.timeline .timeline-body .share-work-link:focus {
+    outline: none;
+    border-color: rgba(178, 0, 48, 0.9);
+}
+
+.timeline .timeline-body .share-work-copy {
+    border: none;
+    border-radius: 10px;
+    padding: 0.65rem 1rem;
+    background: #b20030;
+    color: rgba(255, 255, 255, 1);
+    font-family: "Varela Round";
+    transition: all 0.2s ease-in-out;
+}
+
+.timeline .timeline-body .share-work-copy:hover {
+    background: #8f0026;
+}
+
 
