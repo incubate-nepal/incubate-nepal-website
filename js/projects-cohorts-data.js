@@ -15,7 +15,7 @@ window.INProjectsCohortsData = {
       "mentorsLabel": "Simanta Gautam",
       "peerMentorLabel": "Peer-Mentor",
       "peerMentor": "",
-      "students": "Aasish Rijal, Oshin Panta, Soyuj Jung Basnet, Arbinda Pandey, Abhishek Pandit, Aayushka BudhathokiPranjal Chalise, Rabin Kumar Kalikote, Snehi Ranabhat, Shruti Pokhrel, Shubham Jha",
+      "students": "Aasish Rijal, Oshin Panta, Soyuj Jung Basnet, Arbinda Pandey, Abhishek Pandit, Aayushka Budhathoki",
       "descriptionHtml": "Drishti is an android based mobile application that\n                    recognizes different Nepalese currency notes and gives its\n                    audio output. Project Drishti is driven by a team of\n                    like-minded individuals together with the amazing powers\n                    of Artificial Intelligence and machine learning working to\n                    empower low vision and visually impaired individuals in\n                    Nepal in their financial transactions.",
       "links": [
         {
