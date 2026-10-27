@@ -519,8 +519,8 @@ window.INProjectsCohortsData = {
       "descriptionHtml": "Team Surakshya will create a React Native app that will\n                    provide safety resources for women in an accessible,\n                    simplified manner. Students with learn about app\n                    development, data analysis and data visualization.",
       "links": [
         {
-          "href": "https://drive.google.com/file/d/1LvF6BYdaR0zuV-IgBSWMs5vvTHVfdt6w/view",
-          "iconClass": "las la-file-pdf"
+          "href": "https://www.youtube.com/watch?v=6P7LMwMc5LQ",
+          "iconClass": "lab la-youtube"
         }
       ]
     }
